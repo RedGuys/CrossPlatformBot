@@ -1,0 +1,21 @@
+{
+  "name": "crossplatformbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/main.js",
+  "scripts": {
+    "test": "node tests/Main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "discord.js": "^12.5.1",
+    "form-data": "^4.0.0",
+    "image-downloader": "^4.0.2",
+    "node-vk-bot-api": "^3.4.0",
+    "telegraf": "^4.0.2",
+    "temp": "^0.9.4"
+  }
+}
